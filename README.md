@@ -55,6 +55,17 @@
   </a>
 </p>
 
+
+
+## VAJIRA MD ERROR SUPPORT BOT
+
+<a href="https://goto.now/3NtN2"><img src="" alt="VAJIRA MD ERROR SUPPORT" width="150"></a>
+</br>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+<br>
+
+
+
 ## 💡 FOLLOW OUR CHANAL
 
 <a href="https://whatsapp.com/channel/0029VahMZasD8SE5GRwzqn3Z"><img src="https://img.shields.io/badge/Join%20Our%20WhatsApp%20Channel-blue" alt="📎 Join Our WhatsApp Channel" width="350"></a>
