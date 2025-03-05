@@ -101,6 +101,7 @@
     "gradient-string": "^2.0.2",
     "prompt-sync": "^4.2.0",
     "adm-zip": "^0.5.16",
+    "simple-git": "latest",
     "ytsearch-venom":"^1.0.0"
   }
 }
